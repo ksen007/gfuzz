@@ -1,0 +1,14 @@
+testExampleField
+(%
+ {
+(%
+(%
+ parseFile
+ (
+ "src/test/java/Java8Test.java"
+ )
+%)
+ ;
+%)
+ }
+%)
